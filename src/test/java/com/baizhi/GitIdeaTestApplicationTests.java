@@ -17,6 +17,7 @@ public class GitIdeaTestApplicationTests {
             String s = a[i];
             System.out.println(s);
         }
+        System.out.println("分支");
     }
 
 }
