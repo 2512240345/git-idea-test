@@ -19,6 +19,8 @@ public class GitIdeaTestApplicationTests {
         }
         System.out.println("分支");
         System.out.println("第五次修改");
+        int n = 1;
+        System.out.println(n);
     }
 
 }
