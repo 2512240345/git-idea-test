@@ -12,6 +12,11 @@ public class GitIdeaTestApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("哈哈哈哈");
+        String[] a = {"1","2","3"};
+        for (int i = 0; i < a.length; i++) {
+            String s = a[i];
+            System.out.println(s);
+        }
     }
 
 }
